@@ -93,7 +93,9 @@ p {
   }
 
   img {
-    width: 100%; /* Ajusta a imagem para telas pequenas */
+    max-width: 200px;
+    width: 100%;
+    margin-bottom: 50px; /* Ajusta a imagem para telas pequenas */
   }
 
   .boxes {
